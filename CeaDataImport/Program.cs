@@ -35,7 +35,7 @@ namespace CeaDataImport
         static void Main(string[] args)
         {
             string connectionString = "Server=localhost;Database=SpecianBP;Trusted_Connection=True;MultipleActiveResultSets=true";
-            string path = "C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-04.cea";
+            string path = "C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-08.cea";
             MyDataReader ArchiveReader = new MyDataReader();
             ArchiveReader.LoadCea(path);
 
@@ -141,7 +141,7 @@ namespace CeaDataImport
             }
 
 
-            File.WriteAllLines("insert.sql", insertRows.ToArray());
+            //File.WriteAllLines("insert.sql", insertRows.ToArray());
 
             // values restricted to one day 1.4.2018
             //var hours = reader.values.Where(i => i.Key.Day == 1 && i.Key.Month == 4).Select(i => double.Parse(i.Key.Hour.ToString())).ToArray(); // 8644 values for each 10 seconds
@@ -198,7 +198,7 @@ namespace CeaDataImport
                 {
                     Console.WriteLine(ex.Message);
                 }
-                Console.ReadLine();
+                //Console.ReadLine();
 
             }
         }
