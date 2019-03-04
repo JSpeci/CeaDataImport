@@ -1,0 +1,300 @@
+U_avg_U4_C;U_avg_U4_C;Voltages
+U_avg_U31_C;U_avg_U31_C;Voltages
+U_avg_U3_C;U_avg_U3_C;Voltages
+U_avg_U23_C;U_avg_U23_C;Voltages
+U_avg_U2_C;U_avg_U2_C;Voltages
+U_avg_U12_C;U_avg_U12_C;Voltages
+U_avg_U1_C;U_avg_U1_C;Voltages
+TimeLocal;TimeLocal;
+Symmetrical Components_Zero_φU0_C;Symmetrical_Components_Zero_φU0_C;Symmetrical_Components
+Symmetrical Components_Zero_φI0_C;Symmetrical_Components_Zero_φI0_C;Symmetrical_Components
+Symmetrical Components_Zero_U0_C;Symmetrical_Components_Zero_U0_C;Symmetrical_Components
+Symmetrical Components_Zero_I0_C;Symmetrical_Components_Zero_I0_C;Symmetrical_Components
+Symmetrical Components_Unba_C;Symmetrical_Components_Unba_C;Symmetrical_Components
+Symmetrical Components_u2_C;Symmetrical_Components_u2_C;Symmetrical_Components
+Symmetrical Components_u0_C;Symmetrical_Components_u0_C;Symmetrical_Components
+Symmetrical Components_Positive_φU1_C;Symmetrical_Components_Positive_φU1_C;Symmetrical_Components
+Symmetrical Components_Positive_φI1_C;Symmetrical_Components_Positive_φI1_C;Symmetrical_Components
+Symmetrical Components_Positive_U1_C;Symmetrical_Components_Positive_U1_C;Symmetrical_Components
+Symmetrical Components_Positive_I1_C;Symmetrical_Components_Positive_I1_C;Symmetrical_Components
+Symmetrical Components_Negative_φU2_C;Symmetrical_Components_Negative_φU2_C;Symmetrical_Components
+Symmetrical Components_Negative_φI2_C;Symmetrical_Components_Negative_φI2_C;Symmetrical_Components
+Symmetrical Components_Negative_U2_C;Symmetrical_Components_Negative_U2_C;Symmetrical_Components
+Symmetrical Components_Negative_I2_C;Symmetrical_Components_Negative_I2_C;Symmetrical_Components
+Symmetrical Components_i2_C;Symmetrical_Components_i2_C;Symmetrical_Components
+Symmetrical Components_i0_C;Symmetrical_Components_i0_C;Symmetrical_Components
+Status_Flow_C;Status_Flow_C;Status
+Status_Flags_C;Status_Flags_C;Status
+Status_Flagging_UIP3_C;Status_Flagging_UIP3_C;Status
+Status_Flagging_UIP2_C;Status_Flagging_UIP2_C;Status
+Status_Flagging_UIP1_C;Status_Flagging_UIP1_C;Status
+Status_Flagging_Time_C;Status_Flagging_Time_C;Status
+Status_Flagging_Pst3_C;Status_Flagging_Pst3_C;Status
+Status_Flagging_Pst2_C;Status_Flagging_Pst2_C;Status
+Status_Flagging_Pst1_C;Status_Flagging_Pst1_C;Status
+Status_Flagging_Plt3_C;Status_Flagging_Plt3_C;Status
+Status_Flagging_Plt2_C;Status_Flagging_Plt2_C;Status
+Status_Flagging_Plt1_C;Status_Flagging_Plt1_C;Status
+Status_Flagging_LW3_C;Status_Flagging_LW3_C;Status
+Status_Flagging_LW2_C;Status_Flagging_LW2_C;Status
+Status_Flagging_LW1_C;Status_Flagging_LW1_C;Status
+Status_Flagging_Freq_C;Status_Flagging_Freq_C;Status
+Status_Flagging_FLEX_C;Status_Flagging_FLEX_C;Status
+Status_Flagging_10mTick_C;Status_Flagging_10mTick_C;Status
+Status_ADC Zeroing_U4_C;Status_ADC_Zeroing_U4_C;Status
+Status_ADC Zeroing_U3_C;Status_ADC_Zeroing_U3_C;Status
+Status_ADC Zeroing_U2_C;Status_ADC_Zeroing_U2_C;Status
+Status_ADC Zeroing_U1_C;Status_ADC_Zeroing_U1_C;Status
+Status_ADC Zeroing_I4_C;Status_ADC_Zeroing_I4_C;Status
+Status_ADC Zeroing_I3_C;Status_ADC_Zeroing_I3_C;Status
+Status_ADC Zeroing_I2_C;Status_ADC_Zeroing_I2_C;Status
+Status_ADC Zeroing_I1_C;Status_ADC_Zeroing_I1_C;Status
+Status_ADC Clipping_U4_C;Status_ADC_Clipping_U4_C;Status
+Status_ADC Clipping_U3_C;Status_ADC_Clipping_U3_C;Status
+Status_ADC Clipping_U2_C;Status_ADC_Clipping_U2_C;Status
+Status_ADC Clipping_U1_C;Status_ADC_Clipping_U1_C;Status
+Status_ADC Clipping_I4_C;Status_ADC_Clipping_I4_C;Status
+Status_ADC Clipping_I3_C;Status_ADC_Clipping_I3_C;Status
+Status_ADC Clipping_I2_C;Status_ADC_Clipping_I2_C;Status
+Status_ADC Clipping_I1_C;Status_ADC_Clipping_I1_C;Status
+S_avg_S4_C;S_avg_S4_C;Power
+S_avg_S3_C;S_avg_S3_C;Power
+S_avg_S2_C;S_avg_S2_C;Power
+S_avg_S1_C;S_avg_S1_C;Power
+S_avg_3S_C;S_avg_3S_C;Power
+Q_avg_Q4+_C;Q_avg_Q4plus_C;Power
+Q_avg_Q4-_C;Q_avg_Q4minus_C;Power
+Q_avg_Q4_C;Q_avg_Q4_C;Power
+Q_avg_Q3+_C;Q_avg_Q3plus_C;Power
+Q_avg_Q3-_C;Q_avg_Q3minus_C;Power
+Q_avg_Q3_C;Q_avg_Q3_C;Power
+Q_avg_Q2+_C;Q_avg_Q2plus_C;Power
+Q_avg_Q2-_C;Q_avg_Q2minus_C;Power
+Q_avg_Q2_C;Q_avg_Q2_C;Power
+Q_avg_Q1+_C;Q_avg_Q1plus_C;Power
+Q_avg_Q1-_C;Q_avg_Q1minus_C;Power
+Q_avg_Q1_C;Q_avg_Q1_C;Power
+Q_avg_3Q+_C;Q_avg_3Qplus_C;Power
+Q_avg_3Q-_C;Q_avg_3Qminus_C;Power
+Q_avg_3Q_C;Q_avg_3Q_C;Power
+PF_PF4_C;PF_PF4_C;Power
+PF_PF3_C;PF_PF3_C;Power
+PF_PF2_C;PF_PF2_C;Power
+PF_PF1_C;PF_PF1_C;Power
+PF_3PF_C;PF_3PF_C;Power
+P_avg_P4+_C;P_avg_P4plus_C;Power
+P_avg_P4-_C;P_avg_P4minus_C;Power
+P_avg_P4_C;P_avg_P4_C;Power
+P_avg_P3+_C;P_avg_P3plus_C;Power
+P_avg_P3-_C;P_avg_P3minus_C;Power
+P_avg_P3_C;P_avg_P3_C;Power
+P_avg_P2+_C;P_avg_P2plus_C;Power
+P_avg_P2-_C;P_avg_P2minus_C;Power
+P_avg_P2_C;P_avg_P2_C;Power
+P_avg_P1+_C;P_avg_P1plus_C;Power
+P_avg_P1-_C;P_avg_P1minus_C;Power
+P_avg_P1_C;P_avg_P1_C;Power
+P_avg_3P+_C;P_avg_3Pplus_C;Power
+P_avg_3P-_C;P_avg_3Pminus_C;Power
+P_avg_3P_C;P_avg_3P_C;Power
+Inputs/Temperature_avg_Ti_C;Inputs_Temperature_avg_Ti_C;Temperature
+I_avg_IPEc_C;I_avg_IPEc_C;Current
+I_avg_INc_C;I_avg_INc_C;Current
+I_avg_I4_C;I_avg_I4_C;Current
+I_avg_I3_C;I_avg_I3_C;Current
+I_avg_I2_C;I_avg_I2_C;Current
+I_avg_I1_C;I_avg_I1_C;Current
+I_avg_3I_C;I_avg_3I_C;Current
+Harmonics/Uh_U4_h,9_C;Harmonics_Uh_U4_h_9_C;
+Harmonics/Uh_U4_h,7_C;Harmonics_Uh_U4_h_7_C;
+Harmonics/Uh_U4_h,5_C;Harmonics_Uh_U4_h_5_C;
+Harmonics/Uh_U4_h,3_C;Harmonics_Uh_U4_h_3_C;
+Harmonics/Uh_U4_h,19_C;Harmonics_Uh_U4_h_19_C;
+Harmonics/Uh_U4_h,17_C;Harmonics_Uh_U4_h_17_C;
+Harmonics/Uh_U4_h,15_C;Harmonics_Uh_U4_h_15_C;
+Harmonics/Uh_U4_h,13_C;Harmonics_Uh_U4_h_13_C;
+Harmonics/Uh_U4_h,11_C;Harmonics_Uh_U4_h_11_C;
+Harmonics/Uh_U4_h,1_C;Harmonics_Uh_U4_h_1_C;
+Harmonics/Uh_U3_h,9_C;Harmonics_Uh_U3_h_9_C;
+Harmonics/Uh_U3_h,7_C;Harmonics_Uh_U3_h_7_C;
+Harmonics/Uh_U3_h,5_C;Harmonics_Uh_U3_h_5_C;
+Harmonics/Uh_U3_h,3_C;Harmonics_Uh_U3_h_3_C;
+Harmonics/Uh_U3_h,19_C;Harmonics_Uh_U3_h_19_C;
+Harmonics/Uh_U3_h,17_C;Harmonics_Uh_U3_h_17_C;
+Harmonics/Uh_U3_h,15_C;Harmonics_Uh_U3_h_15_C;
+Harmonics/Uh_U3_h,13_C;Harmonics_Uh_U3_h_13_C;
+Harmonics/Uh_U3_h,11_C;Harmonics_Uh_U3_h_11_C;
+Harmonics/Uh_U3_h,1_C;Harmonics_Uh_U3_h_1_C;
+Harmonics/Uh_U2_h,9_C;Harmonics_Uh_U2_h_9_C;
+Harmonics/Uh_U2_h,7_C;Harmonics_Uh_U2_h_7_C;
+Harmonics/Uh_U2_h,5_C;Harmonics_Uh_U2_h_5_C;
+Harmonics/Uh_U2_h,3_C;Harmonics_Uh_U2_h_3_C;
+Harmonics/Uh_U2_h,19_C;Harmonics_Uh_U2_h_19_C;
+Harmonics/Uh_U2_h,17_C;Harmonics_Uh_U2_h_17_C;
+Harmonics/Uh_U2_h,15_C;Harmonics_Uh_U2_h_15_C;
+Harmonics/Uh_U2_h,13_C;Harmonics_Uh_U2_h_13_C;
+Harmonics/Uh_U2_h,11_C;Harmonics_Uh_U2_h_11_C;
+Harmonics/Uh_U2_h,1_C;Harmonics_Uh_U2_h_1_C;
+Harmonics/Uh_U1_h,9_C;Harmonics_Uh_U1_h_9_C;
+Harmonics/Uh_U1_h,7_C;Harmonics_Uh_U1_h_7_C;
+Harmonics/Uh_U1_h,5_C;Harmonics_Uh_U1_h_5_C;
+Harmonics/Uh_U1_h,3_C;Harmonics_Uh_U1_h_3_C;
+Harmonics/Uh_U1_h,19_C;Harmonics_Uh_U1_h_19_C;
+Harmonics/Uh_U1_h,17_C;Harmonics_Uh_U1_h_17_C;
+Harmonics/Uh_U1_h,15_C;Harmonics_Uh_U1_h_15_C;
+Harmonics/Uh_U1_h,13_C;Harmonics_Uh_U1_h_13_C;
+Harmonics/Uh_U1_h,11_C;Harmonics_Uh_U1_h_11_C;
+Harmonics/Uh_U1_h,1_C;Harmonics_Uh_U1_h_1_C;
+Harmonics/Ufh_φU_4fh_C;Harmonics_Ufh_φU_4fh_C;
+Harmonics/Ufh_φU_3fh_C;Harmonics_Ufh_φU_3fh_C;
+Harmonics/Ufh_φU_2fh_C;Harmonics_Ufh_φU_2fh_C;
+Harmonics/Ufh_φU_1fh_C;Harmonics_Ufh_φU_1fh_C;
+Harmonics/Ufh_U_4fh_C;Harmonics_Ufh_U_4fh_C;
+Harmonics/Ufh_U_3fh_C;Harmonics_Ufh_U_3fh_C;
+Harmonics/Ufh_U_2fh_C;Harmonics_Ufh_U_2fh_C;
+Harmonics/Ufh_U_1fh_C;Harmonics_Ufh_U_1fh_C;
+Harmonics/Ufh_Phase Order_C;Harmonics_Ufh_Phase_Order_C;
+Harmonics/THDU_avg_THDU4_C;Harmonics_THDU_avg_THDU4_C;
+Harmonics/THDU_avg_THDU3_C;Harmonics_THDU_avg_THDU3_C;
+Harmonics/THDU_avg_THDU2_C;Harmonics_THDU_avg_THDU2_C;
+Harmonics/THDU_avg_THDU1_C;Harmonics_THDU_avg_THDU1_C;
+Harmonics/THDU_avg_THD-RU4_C;Harmonics_THDU_avg_THDminusRU4_C;
+Harmonics/THDU_avg_THD-RU3_C;Harmonics_THDU_avg_THDminusRU3_C;
+Harmonics/THDU_avg_THD-RU2_C;Harmonics_THDU_avg_THDminusRU2_C;
+Harmonics/THDU_avg_THD-RU1_C;Harmonics_THDU_avg_THDminusRU1_C;
+Harmonics/THDI_avg_THD-RI4_C;Harmonics_THDI_avg_THDminusRI4_C;
+Harmonics/THDI_avg_THD-RI3_C;Harmonics_THDI_avg_THDminusRI3_C;
+Harmonics/THDI_avg_THD-RI2_C;Harmonics_THDI_avg_THDminusRI2_C;
+Harmonics/THDI_avg_THD-RI1_C;Harmonics_THDI_avg_THDminusRI1_C;
+Harmonics/THDI_avg_THDI4_C;Harmonics_THDI_avg_THDI4_C;
+Harmonics/THDI_avg_THDI3_C;Harmonics_THDI_avg_THDI3_C;
+Harmonics/THDI_avg_THDI2_C;Harmonics_THDI_avg_THDI2_C;
+Harmonics/THDI_avg_THDI1_C;Harmonics_THDI_avg_THDI1_C;
+Harmonics/Qfh_avg_Qfh4+_C;Harmonics_Qfh_avg_Qfh4plus_C;
+Harmonics/Qfh_avg_Qfh4-_C;Harmonics_Qfh_avg_Qfh4minus_C;
+Harmonics/Qfh_avg_Qfh4_C;Harmonics_Qfh_avg_Qfh4_C;
+Harmonics/Qfh_avg_Qfh3+_C;Harmonics_Qfh_avg_Qfh3plus_C;
+Harmonics/Qfh_avg_Qfh3-_C;Harmonics_Qfh_avg_Qfh3minus_C;
+Harmonics/Qfh_avg_Qfh3_C;Harmonics_Qfh_avg_Qfh3_C;
+Harmonics/Qfh_avg_Qfh2+_C;Harmonics_Qfh_avg_Qfh2plus_C;
+Harmonics/Qfh_avg_Qfh2-_C;Harmonics_Qfh_avg_Qfh2minus_C;
+Harmonics/Qfh_avg_Qfh2_C;Harmonics_Qfh_avg_Qfh2_C;
+Harmonics/Qfh_avg_Qfh1+_C;Harmonics_Qfh_avg_Qfh1plus_C;
+Harmonics/Qfh_avg_Qfh1-_C;Harmonics_Qfh_avg_Qfh1minus_C;
+Harmonics/Qfh_avg_Qfh1_C;Harmonics_Qfh_avg_Qfh1_C;
+Harmonics/Qfh_avg_3Qfh+_C;Harmonics_Qfh_avg_3Qfhplus_C;
+Harmonics/Qfh_avg_3Qfh-_C;Harmonics_Qfh_avg_3Qfhminus_C;
+Harmonics/Qfh_avg_3Qfh_C;Harmonics_Qfh_avg_3Qfh_C;
+Harmonics/Pfh_avg_Pfh4+_C;Harmonics_Pfh_avg_Pfh4plus_C;
+Harmonics/Pfh_avg_Pfh4-_C;Harmonics_Pfh_avg_Pfh4minus_C;
+Harmonics/Pfh_avg_Pfh4_C;Harmonics_Pfh_avg_Pfh4_C;
+Harmonics/Pfh_avg_Pfh3+_C;Harmonics_Pfh_avg_Pfh3plus_C;
+Harmonics/Pfh_avg_Pfh3-_C;Harmonics_Pfh_avg_Pfh3minus_C;
+Harmonics/Pfh_avg_Pfh3_C;Harmonics_Pfh_avg_Pfh3_C;
+Harmonics/Pfh_avg_Pfh2+_C;Harmonics_Pfh_avg_Pfh2plus_C;
+Harmonics/Pfh_avg_Pfh2-_C;Harmonics_Pfh_avg_Pfh2minus_C;
+Harmonics/Pfh_avg_Pfh2_C;Harmonics_Pfh_avg_Pfh2_C;
+Harmonics/Pfh_avg_Pfh1+_C;Harmonics_Pfh_avg_Pfh1plus_C;
+Harmonics/Pfh_avg_Pfh1-_C;Harmonics_Pfh_avg_Pfh1minus_C;
+Harmonics/Pfh_avg_Pfh1_C;Harmonics_Pfh_avg_Pfh1_C;
+Harmonics/Pfh_avg_3Pfh+_C;Harmonics_Pfh_avg_3Pfhplus_C;
+Harmonics/Pfh_avg_3Pfh-_C;Harmonics_Pfh_avg_3Pfhminus_C;
+Harmonics/Pfh_avg_3Pfh_C;Harmonics_Pfh_avg_3Pfh_C;
+Harmonics/Ih_I4_h,9_C;Harmonics_Ih_I4_h_9_C;
+Harmonics/Ih_I4_h,7_C;Harmonics_Ih_I4_h_7_C;
+Harmonics/Ih_I4_h,5_C;Harmonics_Ih_I4_h_5_C;
+Harmonics/Ih_I4_h,3_C;Harmonics_Ih_I4_h_3_C;
+Harmonics/Ih_I4_h,19_C;Harmonics_Ih_I4_h_19_C;
+Harmonics/Ih_I4_h,17_C;Harmonics_Ih_I4_h_17_C;
+Harmonics/Ih_I4_h,15_C;Harmonics_Ih_I4_h_15_C;
+Harmonics/Ih_I4_h,13_C;Harmonics_Ih_I4_h_13_C;
+Harmonics/Ih_I4_h,11_C;Harmonics_Ih_I4_h_11_C;
+Harmonics/Ih_I4_h,1_C;Harmonics_Ih_I4_h_1_C;
+Harmonics/Ih_I3_h,9_C;Harmonics_Ih_I3_h_9_C;
+Harmonics/Ih_I3_h,7_C;Harmonics_Ih_I3_h_7_C;
+Harmonics/Ih_I3_h,5_C;Harmonics_Ih_I3_h_5_C;
+Harmonics/Ih_I3_h,3_C;Harmonics_Ih_I3_h_3_C;
+Harmonics/Ih_I3_h,19_C;Harmonics_Ih_I3_h_19_C;
+Harmonics/Ih_I3_h,17_C;Harmonics_Ih_I3_h_17_C;
+Harmonics/Ih_I3_h,15_C;Harmonics_Ih_I3_h_15_C;
+Harmonics/Ih_I3_h,13_C;Harmonics_Ih_I3_h_13_C;
+Harmonics/Ih_I3_h,11_C;Harmonics_Ih_I3_h_11_C;
+Harmonics/Ih_I3_h,1_C;Harmonics_Ih_I3_h_1_C;
+Harmonics/Ih_I2_h,9_C;Harmonics_Ih_I2_h_9_C;
+Harmonics/Ih_I2_h,7_C;Harmonics_Ih_I2_h_7_C;
+Harmonics/Ih_I2_h,5_C;Harmonics_Ih_I2_h_5_C;
+Harmonics/Ih_I2_h,3_C;Harmonics_Ih_I2_h_3_C;
+Harmonics/Ih_I2_h,19_C;Harmonics_Ih_I2_h_19_C;
+Harmonics/Ih_I2_h,17_C;Harmonics_Ih_I2_h_17_C;
+Harmonics/Ih_I2_h,15_C;Harmonics_Ih_I2_h_15_C;
+Harmonics/Ih_I2_h,13_C;Harmonics_Ih_I2_h_13_C;
+Harmonics/Ih_I2_h,11_C;Harmonics_Ih_I2_h_11_C;
+Harmonics/Ih_I2_h,1_C;Harmonics_Ih_I2_h_1_C;
+Harmonics/Ih_I1_h,9_C;Harmonics_Ih_I1_h_9_C;
+Harmonics/Ih_I1_h,7_C;Harmonics_Ih_I1_h_7_C;
+Harmonics/Ih_I1_h,5_C;Harmonics_Ih_I1_h_5_C;
+Harmonics/Ih_I1_h,3_C;Harmonics_Ih_I1_h_3_C;
+Harmonics/Ih_I1_h,19_C;Harmonics_Ih_I1_h_19_C;
+Harmonics/Ih_I1_h,17_C;Harmonics_Ih_I1_h_17_C;
+Harmonics/Ih_I1_h,15_C;Harmonics_Ih_I1_h_15_C;
+Harmonics/Ih_I1_h,13_C;Harmonics_Ih_I1_h_13_C;
+Harmonics/Ih_I1_h,11_C;Harmonics_Ih_I1_h_11_C;
+Harmonics/Ih_I1_h,1_C;Harmonics_Ih_I1_h_1_C;
+Harmonics/Ifh_φI_4fh_C;Harmonics_Ifh_φI_4fh_C;
+Harmonics/Ifh_φI_3fh_C;Harmonics_Ifh_φI_3fh_C;
+Harmonics/Ifh_φI_2fh_C;Harmonics_Ifh_φI_2fh_C;
+Harmonics/Ifh_φI_1fh_C;Harmonics_Ifh_φI_1fh_C;
+Harmonics/Ifh_I_4fh_C;Harmonics_Ifh_I_4fh_C;
+Harmonics/Ifh_I_3fh_C;Harmonics_Ifh_I_3fh_C;
+Harmonics/Ifh_I_2fh_C;Harmonics_Ifh_I_2fh_C;
+Harmonics/Ifh_I_1fh_C;Harmonics_Ifh_I_1fh_C;
+f_avg_f_C;f_avg_f_C;Frequency
+D_avg_D4_C;D_avg_D4_C;Frequency
+D_avg_D3_C;D_avg_D3_C;Frequency
+D_avg_D2_C;D_avg_D2_C;Frequency
+D_avg_D1_C;D_avg_D1_C;Frequency
+D_avg_3D_C;D_avg_3D_C;Frequency
+Cos_Cos4_C;Cos_Cos4_C;Frequency
+Cos_Cos3_C;Cos_Cos3_C;Frequency
+Cos_Cos2_C;Cos_Cos2_C;Frequency
+Cos_Cos1_C;Cos_Cos1_C;Frequency
+Cos_3Cos_C;Cos_3Cos_C;Frequency
+Comm_ETH_TX Message_C;Comm_ETH_TX_Message_C;Comm
+Comm_ETH_TX Data_C;Comm_ETH_TX_Data_C;Comm
+Comm_ETH_SYN WEB_C;Comm_ETH_SYN_WEB_C;Comm
+Comm_ETH_SYN RCV_C;Comm_ETH_SYN_RCV_C;Comm
+Comm_ETH_SYN MODBUS_C;Comm_ETH_SYN_MODBUS_C;Comm
+Comm_ETH_SYN KMB_C;Comm_ETH_SYN_KMB_C;Comm
+Comm_ETH_SYN ES_C;Comm_ETH_SYN_ES_C;Comm
+Comm_ETH_RX M. WEB_C;Comm_ETH_RX_M_WEB_C;Comm
+Comm_ETH_RX M. MODBUS_C;Comm_ETH_RX_M_MODBUS_C;Comm
+Comm_ETH_RX M. KMB_C;Comm_ETH_RX_M_KMB_C;Comm
+Comm_ETH_RX M. ES_C;Comm_ETH_RX_M_ES_C;Comm
+Comm_ETH_RX M. ALL_C;Comm_ETH_RX_M_ALL_C;Comm
+Comm_ETH_Open Sockets(min)_C;Comm_ETH_Open_Sockets_min_C;Comm
+Comm_ETH CH_Time 4_C;Comm_ETH_CH_Time_4_C;Comm
+Comm_ETH CH_Time 3_C;Comm_ETH_CH_Time_3_C;Comm
+Comm_ETH CH_Time 2_C;Comm_ETH_CH_Time_2_C;Comm
+Comm_ETH CH_Time 1_C;Comm_ETH_CH_Time_1_C;Comm
+Comm_ETH CH_Time 0_C;Comm_ETH_CH_Time_0_C;Comm
+Comm_ETH CH_Port 4_C;Comm_ETH_CH_Port_4_C;Comm
+Comm_ETH CH_Port 3_C;Comm_ETH_CH_Port_3_C;Comm
+Comm_ETH CH_Port 2_C;Comm_ETH_CH_Port_2_C;Comm
+Comm_ETH CH_Port 1_C;Comm_ETH_CH_Port_1_C;Comm
+Comm_ETH CH_Port 0_C;Comm_ETH_CH_Port_0_C;Comm
+Comm_ETH CH_Locked 4_C;Comm_ETH_CH_Locked_4_C;Comm
+Comm_ETH CH_Locked 3_C;Comm_ETH_CH_Locked_3_C;Comm
+Comm_ETH CH_Locked 2_C;Comm_ETH_CH_Locked_2_C;Comm
+Comm_ETH CH_Locked 1_C;Comm_ETH_CH_Locked_1_C;Comm
+Comm_ETH CH_Locked 0_C;Comm_ETH_CH_Locked_0_C;Comm
+Comm_ETH CH_IP 4_C;Comm_ETH_CH_IP_4_C;Comm
+Comm_ETH CH_IP 3_C;Comm_ETH_CH_IP_3_C;Comm
+Comm_ETH CH_IP 2_C;Comm_ETH_CH_IP_2_C;Comm
+Comm_ETH CH_IP 1_C;Comm_ETH_CH_IP_1_C;Comm
+Comm_ETH CH_IP 0_C;Comm_ETH_CH_IP_0_C;Comm
+Comm_Cleared_C;Comm_Cleared_C;Comm
+Comm_485_TX Message_C;Comm_485_TX_Message_C;Comm
+Comm_485_TX Data_C;Comm_485_TX_Data_C;Comm
+Comm_485_RX M. ALL_C;Comm_485_RX_M_ALL_C;Comm
+Comm_485_RX M. ACK_C;Comm_485_RX_M_ACK_C;Comm
+Comm_485_RX Data_C;Comm_485_RX_Data_C;Comm
