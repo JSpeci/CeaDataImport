@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{41D17306-D3FA-4823-AF3A-44EE2857DEE6}</ProjectGuid>
+    <ProjectGuid>{6569407F-41C8-4A37-BF68-60A929A5EA58}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GenerateStrings</RootNamespace>
-    <AssemblyName>GenerateStrings</AssemblyName>
+    <RootNamespace>GenerateSeries</RootNamespace>
+    <AssemblyName>GenerateSeries</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -63,6 +63,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImportHelpers\InsertScript.cs" />
+    <Compile Include="ImportHelpers\MyDataReader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

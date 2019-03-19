@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CeaDataImport.ImportHelpers
+namespace GenerateSeries.ImportHelpers
 {
     public class MyDataReader
     {
