@@ -109,12 +109,12 @@ namespace GenerateSeries
             foreach (var coef in coefs)
             {
                 List<string> paths = new List<string>();
-                paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-03.cea");
+                //paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-03.cea");
                 paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-04.cea");
                 paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-05.cea");
                 paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-06.cea");
                 paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-07.cea");
-                paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-08.cea");
+                //paths.Add("C:\\Users\\King\\Desktop\\EnvisBackUps\\2018-08.cea");
 
                 foreach (var p in paths)
                 {
